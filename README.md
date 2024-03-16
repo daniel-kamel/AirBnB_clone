@@ -1,6 +1,4 @@
-<div>
-  <img src="https://user-images.githubusercontent.com/69850751/175876062-f252cc1b-bd44-46b3-9ddb-a7692b2eede4.png"     alt="">
-</div>
+![hbnb](/web_static/images/hbnb.png)
 
 # hbnb: An AirBnB Clone for Learning
 This project, hbnb, is an educational recreation of the popular AirBnB website built as part of the ALX Software Engineering program.  It mimics the core functionalities of the original, including a user interface for browsing and booking rentals, a powerful backend handling data management, a well-defined API facilitating communication between frontend and backend, and a robust database for persistent storage.  Furthermore, to enhance development and debugging, an interactive console is included, allowing you to directly interact with the backend using intuitive commands.
